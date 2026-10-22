@@ -133,8 +133,6 @@ up to ~10 minutes for the R clustering, depending on file size.
   directory (`-project ./sample_data`) or copy `ids.csv` into `sample_data/`
   before the conversion step.
 * `calls.txt` must be in the current working directory.
-* Errors in the post-processing stage are largely ignored, so check that the output
-  files exist and are not empty.
 
 ---
 
